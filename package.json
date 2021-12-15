@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "complex-sqrt": "^1.1.1",
     "cra-template": "1.1.2",
     "function-plot": "^1.22.7",
     "node-sass": "4.14",

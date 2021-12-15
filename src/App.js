@@ -49,7 +49,7 @@ import Complex from "./utils/Complex";
 // ];
 
 const App = () => {
-  const [h, setH] = useState(0.05);
+  const h = 0.05;
   const [data, setData] = useState([]);
   const xMin = 1;
   const xMax = 3;
